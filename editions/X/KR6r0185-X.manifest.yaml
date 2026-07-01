@@ -1,0 +1,3388 @@
+canonical_identifier: bkk:krp/KR6r0185/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0185/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 居士傳
+  identifiers:
+    krp: KR6r0185
+    cbeta: X88n1646
+    cbeta_old_id: X88n1646
+    authorityid: CA0001885
+    json_key: X1646
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1646.xml
+    old_id: X88n1646
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0185_000-X.yaml, hash: 'sha256:9f378688a7094436d30d116a74a1e533ad2ac6f8d469de733e110050c625d56f'}
+  - {seq: 1, filename: KR6r0185_001-X.yaml, hash: 'sha256:18d6217e5c1cd22f6ddfe38e81f418ecf57247ac54993400b33b2f1b50d2de81'}
+  - {seq: 2, filename: KR6r0185_002-X.yaml, hash: 'sha256:dc0ae6d288479ded59072f4444906ef924d558b5da6a95c5eb5719b59de094f9'}
+  - {seq: 3, filename: KR6r0185_003-X.yaml, hash: 'sha256:e9441e6e08d0140524c43addb6c8115a9004d95a9e7449b753019aeda2060be2'}
+  - {seq: 4, filename: KR6r0185_004-X.yaml, hash: 'sha256:4bc588871626c54fbbbef63150bd62e07f11d603c667dadc7e0b7f88a974c2cf'}
+  - {seq: 5, filename: KR6r0185_005-X.yaml, hash: 'sha256:6b4451ca483a7c32c2e99a887096643d86b114d61196b2b84c120992f3cbbff8'}
+  - {seq: 6, filename: KR6r0185_006-X.yaml, hash: 'sha256:e38aa1267f1483c9e3e70073eda2080aae9f4fd1f67a2ae2d00f3d7bb91ef785'}
+  - {seq: 7, filename: KR6r0185_007-X.yaml, hash: 'sha256:2afcf617cc16213823a80a3f4ff3ce6b4844e38a00956c16f557af042c302f49'}
+  - {seq: 8, filename: KR6r0185_008-X.yaml, hash: 'sha256:933733100f179a231654c573ed6d9091c0f29fb6257ff213cb3f5f760b5ef6af'}
+  - {seq: 9, filename: KR6r0185_009-X.yaml, hash: 'sha256:f7a537467795a2cdba9b95f8d6f32f29953ec850b907246feb347ff4717236f6'}
+  - {seq: 10, filename: KR6r0185_010-X.yaml, hash: 'sha256:d1207745da3d7d6b2e708dd39fcf811f41910ce486d11a889fced26b8bb2fe0c'}
+  - {seq: 11, filename: KR6r0185_011-X.yaml, hash: 'sha256:5bb085b71ed8d4d2924904bf96e1d751756898696e8a23ea31b2ea6684255ffb'}
+  - {seq: 12, filename: KR6r0185_012-X.yaml, hash: 'sha256:1cecf0463ed2b97a190fae2bb3d4aa45832d883c40eac7fa2cd53fa5d89bb9a7'}
+  - {seq: 13, filename: KR6r0185_013-X.yaml, hash: 'sha256:1ca700a5c5a67a5596963ef5e4812493b74ece7187f1eab8db4c65e262c5ba33'}
+  - {seq: 14, filename: KR6r0185_014-X.yaml, hash: 'sha256:fa69914a16f4e61fa6cec661a6dafef92ffab0471eb23d83adfc96687af02187'}
+  - {seq: 15, filename: KR6r0185_015-X.yaml, hash: 'sha256:04a0a42aa71e321e99708c11957e7416297bd4be195920470df82b8c1bb56f97'}
+  - {seq: 16, filename: KR6r0185_016-X.yaml, hash: 'sha256:7dc8a15cef540667fe71aa509d1d75514212e393ec78352a8d332aa03a4bc42c'}
+  - {seq: 17, filename: KR6r0185_017-X.yaml, hash: 'sha256:4dd2e7087a0c83ccd19fbab8c4448c6994979bc22182170829deb874051a6c71'}
+  - {seq: 18, filename: KR6r0185_018-X.yaml, hash: 'sha256:2a7aa7ec43906d67a9aaf1f8d1f9dd4419a1b6bb5c0d33b6dbd5940865ca6592'}
+  - {seq: 19, filename: KR6r0185_019-X.yaml, hash: 'sha256:942fd271710a2f82a9be9fa5bac2ed28e001b17bf21d89f6619818a752b64a9b'}
+  - {seq: 20, filename: KR6r0185_020-X.yaml, hash: 'sha256:0386bbe67cf223a6bfbaba858debb9fe475a458e9d389f4ace334c38447684ee'}
+  - {seq: 21, filename: KR6r0185_021-X.yaml, hash: 'sha256:c2c6f043219ce06e574ac3988a091f0df4e516a562851595d3273b225aed4341'}
+  - {seq: 22, filename: KR6r0185_022-X.yaml, hash: 'sha256:9d77e1b09d619cdd0d8407b4ce76476755c1fca0daf2208b755e639fd86c2715'}
+  - {seq: 23, filename: KR6r0185_023-X.yaml, hash: 'sha256:1cb714da0bb3c24512babd7da05c097e1c3581a3fe2a1bfca28b1f441a12a85f'}
+  - {seq: 24, filename: KR6r0185_024-X.yaml, hash: 'sha256:9705d43f657a97e163636d0c43d78bfebd65bfe9331f00234f2f8d9c6aa88f48'}
+  - {seq: 25, filename: KR6r0185_025-X.yaml, hash: 'sha256:f25950d053e7d01e488babeed95fb532f3e9490e3adccb2d365a0855a4b6f647'}
+  - {seq: 26, filename: KR6r0185_026-X.yaml, hash: 'sha256:ac0e4c8fdbacbb3a7c39451b4ee1d70c8b4221fb3244e6e5313ef96cd237d170'}
+  - {seq: 27, filename: KR6r0185_027-X.yaml, hash: 'sha256:f2975d9eb3911fff4363f159d4a7ba1a4e796ce18c472510b8d2a18a0e5944ef'}
+  - {seq: 28, filename: KR6r0185_028-X.yaml, hash: 'sha256:7105437bebc749309aecf6431fce8e5b48ba06bd36b170fd94cea2485861729a'}
+  - {seq: 29, filename: KR6r0185_029-X.yaml, hash: 'sha256:16a2565f3fb08ae67da386d66ec3f37afb3f8e363eaa8096155a3345d55b627f'}
+  - {seq: 30, filename: KR6r0185_030-X.yaml, hash: 'sha256:8a0495ef6bab68219017dd4218d8b08813003296b5af5512188bcc68643a3a93'}
+  - {seq: 31, filename: KR6r0185_031-X.yaml, hash: 'sha256:3133a5b6929495cfe585a027fe50b0864cd6d39d979d832ab92dd18cb849d922'}
+  - {seq: 32, filename: KR6r0185_032-X.yaml, hash: 'sha256:025a4b8523ea76878f3f51e9ce329fb3c5e0b7a003c4a5d73da1409f17d5a546'}
+  - {seq: 33, filename: KR6r0185_033-X.yaml, hash: 'sha256:1a92f153011d26d4ba915dd5eb0ffb8c5b0a4e95b3948009ed7a7efa709d1f96'}
+  - {seq: 34, filename: KR6r0185_034-X.yaml, hash: 'sha256:b96e65b90945d1cfe61b10d4ba2ca43333a8b967ba33ac07cb87a1f05d3817b6'}
+  - {seq: 35, filename: KR6r0185_035-X.yaml, hash: 'sha256:f257bf6ab164a32a0e4bdcd78e98816055bcfb18e92150e42cd3f674d8cc2c58'}
+  - {seq: 36, filename: KR6r0185_036-X.yaml, hash: 'sha256:70b06b5fb82dae5105b10e5825ed42aff4097146b8a2c211840f9a2b7caf685f'}
+  - {seq: 37, filename: KR6r0185_037-X.yaml, hash: 'sha256:4b90d4f53ae923330cec84bd525bc08284849236c4a52414e8996001dd87991b'}
+  - {seq: 38, filename: KR6r0185_038-X.yaml, hash: 'sha256:ce1efb92f248d1a0ae169873380b1f86781ea21fe76a50ec510b0a7eff897d19'}
+  - {seq: 39, filename: KR6r0185_039-X.yaml, hash: 'sha256:2b90c6bee8a009e0bb21f44bd43f617cad57e0fea6c04964c6a7f6ad084999db'}
+  - {seq: 40, filename: KR6r0185_040-X.yaml, hash: 'sha256:529b1d16df8a6bb017da6e9c31c4e91b8cd83eac85e40f66bea886c4afcd797a'}
+  - {seq: 41, filename: KR6r0185_041-X.yaml, hash: 'sha256:17e4eaa4992bf7696f20cd4d9c15076ccd38a6d8be2362750ea8085bed3eef02'}
+  - {seq: 42, filename: KR6r0185_042-X.yaml, hash: 'sha256:9213dabf0e7a8552444911a623c55e1ba31c2109889d4218fc4515cae1965f2f'}
+  - {seq: 43, filename: KR6r0185_043-X.yaml, hash: 'sha256:f575d3d45a18d465f5e07111c99a6f5494e6fdf8019ee35c8ad541d467550180'}
+  - {seq: 44, filename: KR6r0185_044-X.yaml, hash: 'sha256:e197e13421ddec582da7c553d0352aa8a31e56235e8ec60723e20797253ebb42'}
+  - {seq: 45, filename: KR6r0185_045-X.yaml, hash: 'sha256:3c6b97002aa32547fff9092854f523d6cc7f27f7132e58c4b5c4e2a822f742d5'}
+  - {seq: 46, filename: KR6r0185_046-X.yaml, hash: 'sha256:717c31219239c7a689aa3920f1d127168fbf4b5c7d34c005ee80a0822b534b55'}
+  - {seq: 47, filename: KR6r0185_047-X.yaml, hash: 'sha256:9694d0bb9b98580c9f2fd22c7884516a35a5ccdb7e62ca0fc467cd3116d99470'}
+  - {seq: 48, filename: KR6r0185_048-X.yaml, hash: 'sha256:912391b3122582a3b60bb47efe5d77069de8a645f8dc3b7a490cb060d669c340'}
+  - {seq: 49, filename: KR6r0185_049-X.yaml, hash: 'sha256:72e408fdddb6ab76c9ca2fe868e97215dd4071f477cb6d49cbd07ee1a45678b9'}
+  - {seq: 50, filename: KR6r0185_050-X.yaml, hash: 'sha256:5b3b6f6db837d88888b183558ead3ed3cca774984ab7ad29d4f371cadb3600a1'}
+  - {seq: 51, filename: KR6r0185_051-X.yaml, hash: 'sha256:0378e112e8521a736747e7e435d6898e8805ae56584c2f449a8ab22fa5b65464'}
+  - {seq: 52, filename: KR6r0185_052-X.yaml, hash: 'sha256:90721d817c4d548ad724f7f5273c8ac0bb9a9ed08bf0ce3e36bb60967cee1053'}
+  - {seq: 53, filename: KR6r0185_053-X.yaml, hash: 'sha256:ec8fbf1e9b622960b3b3d4add60966a4486c66e7470c7497f6e5f9aee96ac6ee'}
+  - {seq: 54, filename: KR6r0185_054-X.yaml, hash: 'sha256:0f9e8a44872847a82aa5534eef20c2d6005113d432f7e7663dca373213fe58b8'}
+  - {seq: 55, filename: KR6r0185_055-X.yaml, hash: 'sha256:123c5724ce216a093e8dd9604dfd1841e78cec4b2737b3a5530ceadbc01c0393'}
+  - {seq: 56, filename: KR6r0185_056-X.yaml, hash: 'sha256:be4325693c3bbca8535ef6ef8c5922240035d22792cf1df02063a3d104881959'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0185_000-X.markers.yaml, hash: 'sha256:141fb651eb36692dd566e4eed497f7a4e0283bf73d3fc62ec8b6b644bec8cc08'}
+  - {seq: 1, role: markers, filename: assets/KR6r0185_001-X.markers.yaml, hash: 'sha256:2a22eab2f077851f5ee156e4a78548981dcdd758361331f473820412a2750e3b'}
+  - {seq: 2, role: markers, filename: assets/KR6r0185_002-X.markers.yaml, hash: 'sha256:fcf58a7e8a65fa5802771a8c1a2ec32c57f2c24729f8c1f6c084d47bce563a8f'}
+  - {seq: 3, role: markers, filename: assets/KR6r0185_003-X.markers.yaml, hash: 'sha256:f82f00eebaabd4188016d618bf5eed2f0d007b422a9a557480b2e6effc077b83'}
+  - {seq: 4, role: markers, filename: assets/KR6r0185_004-X.markers.yaml, hash: 'sha256:e7e0c69be766665e46e76ed3677d428386722b457069b70843715489ac8bcbda'}
+  - {seq: 5, role: markers, filename: assets/KR6r0185_005-X.markers.yaml, hash: 'sha256:0507f4427024d3cc4ded8c2535efc926fc7ababde2dbce0c6d0d4bd1cdb95fdf'}
+  - {seq: 6, role: markers, filename: assets/KR6r0185_006-X.markers.yaml, hash: 'sha256:cb812519417719a2c63fa49926dc738508d61b5700012f71c683e1ae0f08fb33'}
+  - {seq: 7, role: markers, filename: assets/KR6r0185_007-X.markers.yaml, hash: 'sha256:b6dbef88b49f4c52d8397a41b8ed22b4c0b9bf6561be12509d10fa83740630a0'}
+  - {seq: 8, role: markers, filename: assets/KR6r0185_008-X.markers.yaml, hash: 'sha256:33e72add5ed16f58e131dc0624b42364adb72744df40bd7f2e2fa06c1aec3ebe'}
+  - {seq: 9, role: markers, filename: assets/KR6r0185_009-X.markers.yaml, hash: 'sha256:aa311ea7632ea51eba5fb6566919271206d88daa8920d04ade475d04a3ee98e6'}
+  - {seq: 10, role: markers, filename: assets/KR6r0185_010-X.markers.yaml, hash: 'sha256:b2cdd3e5ebda4201050c1b0ffdabacf436cfc394c176cffc9648f063d8e320af'}
+  - {seq: 11, role: markers, filename: assets/KR6r0185_011-X.markers.yaml, hash: 'sha256:4bca6add7af170f680c6e1753ac661f7546a2768b21d64c353844184177c0be1'}
+  - {seq: 12, role: markers, filename: assets/KR6r0185_012-X.markers.yaml, hash: 'sha256:fece6a9918b6e157b0bbc5f22c81277690fd7881d4302e162737da3a494c321c'}
+  - {seq: 13, role: markers, filename: assets/KR6r0185_013-X.markers.yaml, hash: 'sha256:fdbe83c3fe9cfc26542854a8beabdafb84217af52745c095a57f349722b5b90f'}
+  - {seq: 14, role: markers, filename: assets/KR6r0185_014-X.markers.yaml, hash: 'sha256:42fb6c482d86b7ea328a2b62acbcf8c265db97098ba8f767c2660061077fe0a3'}
+  - {seq: 15, role: markers, filename: assets/KR6r0185_015-X.markers.yaml, hash: 'sha256:d05efb87d0b805d8756accf3e43218f41c67ae8317402c4a40f31e27cabeccbd'}
+  - {seq: 16, role: markers, filename: assets/KR6r0185_016-X.markers.yaml, hash: 'sha256:050356f6f4e065c9da741cc352edd0128a4bcb02bfb0578106de838cd7a5fc36'}
+  - {seq: 17, role: markers, filename: assets/KR6r0185_017-X.markers.yaml, hash: 'sha256:966c76be12cb724a8a2acef2f7c62aa371c8b069e4eea549acccddd911583639'}
+  - {seq: 18, role: markers, filename: assets/KR6r0185_018-X.markers.yaml, hash: 'sha256:6d6264ea5af46647d119dc09a46753d51638bd3fcaaca0fd38b10470f3fc010e'}
+  - {seq: 19, role: markers, filename: assets/KR6r0185_019-X.markers.yaml, hash: 'sha256:a92c213799119e4af12fffcd04a52e8d440680d1e3c1c0e38e11b71a9a4b1345'}
+  - {seq: 20, role: markers, filename: assets/KR6r0185_020-X.markers.yaml, hash: 'sha256:31abca6016cbac776d0fd53a0a81db598e0a65968a8475fd4c581785760448f3'}
+  - {seq: 21, role: markers, filename: assets/KR6r0185_021-X.markers.yaml, hash: 'sha256:4e83c03fc9f01d6bc84a4ee51e50065f4b99d3a08fb77cc47ceabcf92e990f2f'}
+  - {seq: 22, role: markers, filename: assets/KR6r0185_022-X.markers.yaml, hash: 'sha256:248c058058a3dc99cd6a702b35f4b9ab22451900e9118d733c0b76b1cc402aab'}
+  - {seq: 23, role: markers, filename: assets/KR6r0185_023-X.markers.yaml, hash: 'sha256:eb9de65471c1a561a944dd8f6057972fa3dc0e3072f5e7b4618fcd99eedfd73b'}
+  - {seq: 24, role: markers, filename: assets/KR6r0185_024-X.markers.yaml, hash: 'sha256:18dc39ab6c6bac60589c57d27f9a2d9ec8db34c3cc4d7162c99d2e7305192c4d'}
+  - {seq: 25, role: markers, filename: assets/KR6r0185_025-X.markers.yaml, hash: 'sha256:94f2c91ad27e9bb8d6ee56f5634526c47423493f12d2962dc4eefa7a4a8161e7'}
+  - {seq: 26, role: markers, filename: assets/KR6r0185_026-X.markers.yaml, hash: 'sha256:7d1f94013f9e22280258b1d94281c62befb937233558d2000f968e7f491ac72c'}
+  - {seq: 27, role: markers, filename: assets/KR6r0185_027-X.markers.yaml, hash: 'sha256:0284e42154220ffd56a80be93b451eea733d9793fcdc340ab117a08963f73d1f'}
+  - {seq: 28, role: markers, filename: assets/KR6r0185_028-X.markers.yaml, hash: 'sha256:0e0feeb2c66d412d2edcc69e465b840ca87ba0523a2b1615fd3e709fd5c39cf7'}
+  - {seq: 29, role: markers, filename: assets/KR6r0185_029-X.markers.yaml, hash: 'sha256:3103e202cd4394fbc4be362a3f3e38044fc6f02ac664a4ef308281a627046080'}
+  - {seq: 30, role: markers, filename: assets/KR6r0185_030-X.markers.yaml, hash: 'sha256:c3ea5e2ff07dd2ad20d0755b13397cfadde4d1e2356ac29538fb8c33a1d3c64c'}
+  - {seq: 31, role: markers, filename: assets/KR6r0185_031-X.markers.yaml, hash: 'sha256:d91721f0539c5b19d5d823a567dbaa6571828acc4dca0275467501b25a9034f8'}
+  - {seq: 32, role: markers, filename: assets/KR6r0185_032-X.markers.yaml, hash: 'sha256:ad554cb59e628d0decb5d4b5577a76b51afebf5823a575617c139fcedade29bd'}
+  - {seq: 33, role: markers, filename: assets/KR6r0185_033-X.markers.yaml, hash: 'sha256:aef95ad022921494a291cf176963cc6f7de8db50a801216e758cdff59c6b3a73'}
+  - {seq: 34, role: markers, filename: assets/KR6r0185_034-X.markers.yaml, hash: 'sha256:fd4cf85679e495739c53a3914caf2532c7ffeb4af23aef122f1bb4a3a199c6ef'}
+  - {seq: 35, role: markers, filename: assets/KR6r0185_035-X.markers.yaml, hash: 'sha256:87f4c4bf82208154631b5adf76af29f73e5eedf7d92baca2306701d796792490'}
+  - {seq: 36, role: markers, filename: assets/KR6r0185_036-X.markers.yaml, hash: 'sha256:6bc9cbdf6ba40858ddec011685e8869db1a83965e0f62dadee5aad80e748ba0c'}
+  - {seq: 37, role: markers, filename: assets/KR6r0185_037-X.markers.yaml, hash: 'sha256:998af9ad155aafae6be440148f47d018fb715a9234615fca86a4f43879ad24cb'}
+  - {seq: 38, role: markers, filename: assets/KR6r0185_038-X.markers.yaml, hash: 'sha256:99fea07c2e276c6bb0723aeed6b9f64cd9e2c29d23ea309b6fe93153b09cbc4d'}
+  - {seq: 39, role: markers, filename: assets/KR6r0185_039-X.markers.yaml, hash: 'sha256:86bea53d9ccf25000ada0d08b159554854786c90ecab548eb92a767d2bfc9692'}
+  - {seq: 40, role: markers, filename: assets/KR6r0185_040-X.markers.yaml, hash: 'sha256:0c8c6dbcb139e01f2b0999acd25303db35c21b355992a46006276189a3e1602f'}
+  - {seq: 41, role: markers, filename: assets/KR6r0185_041-X.markers.yaml, hash: 'sha256:9a5532cf1c1cdea1036a1753a6b24b83c5d6bf4d33c9655ebd930948c11d64a1'}
+  - {seq: 42, role: markers, filename: assets/KR6r0185_042-X.markers.yaml, hash: 'sha256:f6e5879fdf88ee0b82ddb4194e376a0aa6deec6820bacb561c9de66b1062ac74'}
+  - {seq: 43, role: markers, filename: assets/KR6r0185_043-X.markers.yaml, hash: 'sha256:b053d31926d4389fb64893fa2806c0007e0fee678aa569e5d4a3ec5331a88cea'}
+  - {seq: 44, role: markers, filename: assets/KR6r0185_044-X.markers.yaml, hash: 'sha256:e6bda799711be170a6227d231e60f326fc86c34ff83036f4981badfe4be0e228'}
+  - {seq: 45, role: markers, filename: assets/KR6r0185_045-X.markers.yaml, hash: 'sha256:3075c6317100221e8bdfd7c2bc794ddf66253e97edb898c5328604400d07b5ee'}
+  - {seq: 46, role: markers, filename: assets/KR6r0185_046-X.markers.yaml, hash: 'sha256:a21261f0ac84d4be1fc96e3edaa9bd8557fe65ac0ff4d2a48539bf298dfd0d54'}
+  - {seq: 47, role: markers, filename: assets/KR6r0185_047-X.markers.yaml, hash: 'sha256:e363f02988f81c0b7cf2dfe09ec9c56c8536f97805e895183cc5af269893e56f'}
+  - {seq: 48, role: markers, filename: assets/KR6r0185_048-X.markers.yaml, hash: 'sha256:4840fa337b855b425e2f42b4c3c70e53ce01b2eb53e5f98ebf2aab2e5a02c215'}
+  - {seq: 49, role: markers, filename: assets/KR6r0185_049-X.markers.yaml, hash: 'sha256:30870390d63fb8b7c26135422bacecdcc42c5c86b33f3ee9094e611506044621'}
+  - {seq: 50, role: markers, filename: assets/KR6r0185_050-X.markers.yaml, hash: 'sha256:eff379ff22a6a4d91663ec3ad6b928091e8e6d3770daeaf6e8b99d3d30f94f7c'}
+  - {seq: 51, role: markers, filename: assets/KR6r0185_051-X.markers.yaml, hash: 'sha256:fa393c1570d500f9c8dfa9709a7623fde1bf393754062b5fc597f5bb3f4ebfb4'}
+  - {seq: 52, role: markers, filename: assets/KR6r0185_052-X.markers.yaml, hash: 'sha256:635d6e40473319c584e23be5e2d5c75505fc556b2d4857aa30c2f1cd004a4546'}
+  - {seq: 53, role: markers, filename: assets/KR6r0185_053-X.markers.yaml, hash: 'sha256:5df131d3d55c590884cab811b776822c2e67419a96eb2c70cf958163a5fd54c0'}
+  - {seq: 54, role: markers, filename: assets/KR6r0185_054-X.markers.yaml, hash: 'sha256:17f63c82e9b206085ebba0d4d983c166f6b89085447a1a5ac6d55eeec43299d1'}
+  - {seq: 55, role: markers, filename: assets/KR6r0185_055-X.markers.yaml, hash: 'sha256:b883874749b48a63ed3ab6a13f21088f555be03cd185246fa5f7e5d2d47a84c1'}
+  - {seq: 56, role: markers, filename: assets/KR6r0185_056-X.markers.yaml, hash: 'sha256:321202722552dcc967d7c08c1e52481216dc23265ac3bdbe9c7d6939b1b2f0a8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0185_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1646-A 居士傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0185_X_000-mulu-2
+    span:
+    - front
+    - 161
+    - 161
+  label: 居士傳發凡
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0185_X_000-mulu-3
+    span:
+    - front
+    - 1310
+    - 1310
+  label: 題居士傳偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0185_X_000-mulu-4
+    span:
+    - front
+    - 1624
+    - 1624
+  label: 居士傳目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4324
+  label: 居士傳一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 牟安支二竺闕孫謝傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 牟融
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-3
+    span:
+    - body
+    - 1155
+    - 1155
+  label: 安元
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-4
+    span:
+    - body
+    - 1229
+    - 1229
+  label: 支恭明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-5
+    span:
+    - body
+    - 1619
+    - 1619
+  label: 竺叔蘭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-6
+    span:
+    - body
+    - 1969
+    - 1969
+  label: 竺長舒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-7
+    span:
+    - body
+    - 2106
+    - 2106
+  label: 闕公則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-8
+    span:
+    - body
+    - 2313
+    - 2313
+  label: 孫興公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0185_X_001-mulu-9
+    span:
+    - body
+    - 3291
+    - 3291
+  label: 謝慶緒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0185_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 1011
+  label: 居士傳二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0185_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 劉遺民傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 2152
+  label: 居士傳三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二張王宗周雷傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 張萊民
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-3
+    span:
+    - body
+    - 81
+    - 81
+  label: 張秀實
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-4
+    span:
+    - body
+    - 164
+    - 164
+  label: 王喬之
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-5
+    span:
+    - body
+    - 605
+    - 605
+  label: 宗少文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-6
+    span:
+    - body
+    - 1503
+    - 1503
+  label: 周道祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0185_X_003-mulu-7
+    span:
+    - body
+    - 1686
+    - 1686
+  label: 雷仲倫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 1562
+  label: 居士傳四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 安陽董何魏陳劉傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 安陽沮渠侯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-3
+    span:
+    - body
+    - 240
+    - 240
+  label: 董吉
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-4
+    span:
+    - body
+    - 502
+    - 502
+  label: 何曇遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-5
+    span:
+    - body
+    - 643
+    - 643
+  label: 魏世子
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-6
+    span:
+    - body
+    - 741
+    - 741
+  label: 陳參軍
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-7
+    span:
+    - body
+    - 1049
+    - 1049
+  label: 劉謙之
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0185_X_004-mulu-8
+    span:
+    - body
+    - 1203
+    - 1203
+  label: 嚴恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 3729
+  label: 居士傳五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 何周到裴劉傅傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 何彥悳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-3
+    span:
+    - body
+    - 1008
+    - 1008
+  label: 周彥倫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-4
+    span:
+    - body
+    - 1631
+    - 1631
+  label: 到茂灌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-5
+    span:
+    - body
+    - 1821
+    - 1821
+  label: 裴幾原
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-6
+    span:
+    - body
+    - 2152
+    - 2152
+  label: 劉彥和
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0185_X_005-mulu-7
+    span:
+    - body
+    - 2582
+    - 2582
+  label: 傅宜事
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0185_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 4112
+  label: 居士傳六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0185_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 竟陵文宣王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0185_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 1206
+  label: 居士傳七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0185_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 傅大士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0185_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 1290
+  label: 居士傳八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0185_X_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 荊山居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0185_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 2549
+  label: 居士傳九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0185_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 昭明太子傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 3448
+  label: 居士傳十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 劉明劉庾劉向馮李傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 劉靈預
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-3
+    span:
+    - body
+    - 311
+    - 311
+  label: 明休烈
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-4
+    span:
+    - body
+    - 1085
+    - 1085
+  label: 劉士光
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-5
+    span:
+    - body
+    - 1579
+    - 1579
+  label: 庾彥寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-6
+    span:
+    - body
+    - 1861
+    - 1861
+  label: 劉宣文
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-7
+    span:
+    - body
+    - 2129
+    - 2129
+  label: 向居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-8
+    span:
+    - body
+    - 2384
+    - 2384
+  label: 馮兖
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0185_X_010-mulu-9
+    span:
+    - body
+    - 2711
+    - 2711
+  label: 李子約
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0185_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 1425
+  label: 居士傳十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0185_X_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 張洪賑張廷珪辛替否傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0185_X_011-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 張洪賑
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0185_X_011-mulu-3
+    span:
+    - body
+    - 407
+    - 407
+  label: 張廷珪
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0185_X_011-mulu-4
+    span:
+    - body
+    - 1093
+    - 1093
+  label: 辛替否
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 2590
+  label: 居士傳十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 江劉張司馬李元萬朱二吳彭高傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 江含潔
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-3
+    span:
+    - body
+    - 198
+    - 198
+  label: 劉士烜
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-4
+    span:
+    - body
+    - 293
+    - 293
+  label: 張孝始
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-5
+    span:
+    - body
+    - 502
+    - 502
+  label: 司馬喬卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-6
+    span:
+    - body
+    - 585
+    - 585
+  label: 李觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-7
+    span:
+    - body
+    - 662
+    - 662
+  label: 元紫芝
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-8
+    span:
+    - body
+    - 753
+    - 753
+  label: 萬敬儒
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-9
+    span:
+    - body
+    - 795
+    - 795
+  label: 朱康叔
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-10
+    span:
+    - body
+    - 1135
+    - 1135
+  label: 吳璋
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-11
+    span:
+    - body
+    - 1319
+    - 1319
+  label: 吳君平
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-12
+    span:
+    - body
+    - 1494
+    - 1494
+  label: 彭信宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0185_X_012-mulu-13
+    span:
+    - body
+    - 1691
+    - 1691
+  label: 高彚旃
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0185_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 6976
+  label: 居士傳十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0185_X_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 李師政梁敬之斐公美傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0185_X_013-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 李師政
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0185_X_013-mulu-3
+    span:
+    - body
+    - 1748
+    - 1748
+  label: 梁敬之
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0185_X_013-mulu-4
+    span:
+    - body
+    - 3527
+    - 3527
+  label: 裴公美
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 1520
+  label: 居士傳十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 李樊牛于商鄭馬陸李傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 李山龍
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-3
+    span:
+    - body
+    - 447
+    - 447
+  label: 樊元智
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-4
+    span:
+    - body
+    - 559
+    - 559
+  label: 牛思遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-5
+    span:
+    - body
+    - 737
+    - 737
+  label: 于昶
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-6
+    span:
+    - body
+    - 824
+    - 824
+  label: 商居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-7
+    span:
+    - body
+    - 948
+    - 948
+  label: 鄭牧卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-8
+    span:
+    - body
+    - 1007
+    - 1007
+  label: 馬子雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-9
+    span:
+    - body
+    - 1123
+    - 1123
+  label: 陸康成
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0185_X_014-mulu-10
+    span:
+    - body
+    - 1276
+    - 1276
+  label: 李知遙
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6r0185_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 1666
+  label: 居士傳十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6r0185_X_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 李長者傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0185_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 1986
+  label: 居士傳十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0185_X_016-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 顏清臣韋城武傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0185_X_016-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 顏清臣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0185_X_016-mulu-3
+    span:
+    - body
+    - 1070
+    - 1070
+  label: 韋城武
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0185_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 602
+  label: 居士傳十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0185_X_017-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 龐居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0185_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 983
+  label: 居士傳十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0185_X_018-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 王敬初陳操甘行者張秀才傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0185_X_018-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 王敬初
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0185_X_018-mulu-3
+    span:
+    - body
+    - 364
+    - 364
+  label: 陳操
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0185_X_018-mulu-4
+    span:
+    - body
+    - 547
+    - 547
+  label: 甘行者
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0185_X_018-mulu-5
+    span:
+    - body
+    - 838
+    - 838
+  label: 張秀才
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0185_X_019-juan-start
+    span:
+    - body
+    - 0
+    - 2485
+  label: 居士傳十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0185_X_019-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 王摩詰柳子厚白樂天傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0185_X_019-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 王摩詰
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0185_X_019-mulu-3
+    span:
+    - body
+    - 420
+    - 420
+  label: 柳子厚
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0185_X_019-mulu-4
+    span:
+    - body
+    - 1407
+    - 1407
+  label: 白樂天
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0185_X_020-juan-start
+    span:
+    - body
+    - 0
+    - 1638
+  label: 居士傳二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0185_X_020-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 楊大年李公武傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0185_X_020-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 楊大年
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0185_X_020-mulu-3
+    span:
+    - body
+    - 977
+    - 977
+  label: 李公武
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-juan-start
+    span:
+    - body
+    - 0
+    - 1982
+  label: 居士傳二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 晁王文富張趙傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 晁明遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-3
+    span:
+    - body
+    - 506
+    - 506
+  label: 王子正
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-4
+    span:
+    - body
+    - 953
+    - 953
+  label: 文寬夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-5
+    span:
+    - body
+    - 1169
+    - 1169
+  label: 富彥國
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-6
+    span:
+    - body
+    - 1362
+    - 1362
+  label: 張安道
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0185_X_021-mulu-7
+    span:
+    - body
+    - 1589
+    - 1589
+  label: 趙閱道
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0185_X_022-juan-start
+    span:
+    - body
+    - 0
+    - 3651
+  label: 居士傳二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0185_X_022-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 楊次公王敏仲傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0185_X_022-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 楊次公
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0185_X_022-mulu-3
+    span:
+    - body
+    - 1588
+    - 1588
+  label: 王敏仲
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6r0185_X_023-juan-start
+    span:
+    - body
+    - 0
+    - 1434
+  label: 居士傳二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6r0185_X_023-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 張平叔傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-juan-start
+    span:
+    - body
+    - 0
+    - 4861
+  label: 居士傳二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 鍾離孫陸張孫馬左范胡孫朱二王吳張李陸閻錢󳴴吳陳傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-2
+    span:
+    - body
+    - 23
+    - 23
+  label: 鍾離瑾
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-3
+    span:
+    - body
+    - 414
+    - 414
+  label: 孫良
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-4
+    span:
+    - body
+    - 485
+    - 485
+  label: 陸浚
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-5
+    span:
+    - body
+    - 604
+    - 604
+  label: 張廸
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-6
+    span:
+    - body
+    - 683
+    - 683
+  label: 孫十二郎
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-7
+    span:
+    - body
+    - 849
+    - 849
+  label: 馬仲玉
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-8
+    span:
+    - body
+    - 1135
+    - 1135
+  label: 左伸
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-9
+    span:
+    - body
+    - 1240
+    - 1240
+  label: 范儼
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-10
+    span:
+    - body
+    - 1330
+    - 1330
+  label: 胡達夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-11
+    span:
+    - body
+    - 1573
+    - 1573
+  label: 孫忭
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-12
+    span:
+    - body
+    - 1816
+    - 1816
+  label: 朱進士
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-13
+    span:
+    - body
+    - 2023
+    - 2023
+  label: 王無功
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-14
+    span:
+    - body
+    - 2423
+    - 2423
+  label: 王衷
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-15
+    span:
+    - body
+    - 2521
+    - 2521
+  label: 吳信叟
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-16
+    span:
+    - body
+    - 2701
+    - 2701
+  label: 張掄
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-17
+    span:
+    - body
+    - 3147
+    - 3147
+  label: 李秉
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-18
+    span:
+    - body
+    - 3355
+    - 3355
+  label: 陸子元
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-19
+    span:
+    - body
+    - 3603
+    - 3603
+  label: 閻󳬛榮
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-20
+    span:
+    - body
+    - 3761
+    - 3761
+  label: 錢同伯
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-21
+    span:
+    - body
+    - 4164
+    - 4164
+  label: 昝省齋
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-22
+    span:
+    - body
+    - 4354
+    - 4354
+  label: 吳復之
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0185_X_024-mulu-23
+    span:
+    - body
+    - 4662
+    - 4662
+  label: 陳君璋
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-juan-start
+    span:
+    - body
+    - 0
+    - 2155
+  label: 居士傳二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 劉潘許郭陳吳傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 劉興朝
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-3
+    span:
+    - body
+    - 805
+    - 805
+  label: 潘延之
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-4
+    span:
+    - body
+    - 999
+    - 999
+  label: 許叔矜
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-5
+    span:
+    - body
+    - 1183
+    - 1183
+  label: 郭功父
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-6
+    span:
+    - body
+    - 1583
+    - 1583
+  label: 陳體常
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0185_X_025-mulu-7
+    span:
+    - body
+    - 1813
+    - 1813
+  label: 吳德夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6r0185_X_026-juan-start
+    span:
+    - body
+    - 0
+    - 3185
+  label: 居士傳二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6r0185_X_026-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 蘇子瞻黃魯直晁無咎傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6r0185_X_026-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 蘇子瞻
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6r0185_X_026-mulu-3
+    span:
+    - body
+    - 1113
+    - 1113
+  label: 黃魯直
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6r0185_X_026-mulu-4
+    span:
+    - body
+    - 2006
+    - 2006
+  label: 晁無咎
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6r0185_X_027-juan-start
+    span:
+    - body
+    - 0
+    - 2758
+  label: 居士傳二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6r0185_X_027-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 鄭介夫鄒志完江民表陳瑩中傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6r0185_X_027-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 鄭介夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6r0185_X_027-mulu-3
+    span:
+    - body
+    - 614
+    - 614
+  label: 鄒志完
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6r0185_X_027-mulu-4
+    span:
+    - body
+    - 1086
+    - 1086
+  label: 江民表
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6r0185_X_027-mulu-5
+    span:
+    - body
+    - 1465
+    - 1465
+  label: 陳瑩中
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6r0185_X_028-juan-start
+    span:
+    - body
+    - 0
+    - 1796
+  label: 居士傳二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6r0185_X_028-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 張天覺傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6r0185_X_029-juan-start
+    span:
+    - body
+    - 0
+    - 2273
+  label: 居士傳二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6r0185_X_029-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 李伯紀傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0185_X_030-juan-start
+    span:
+    - body
+    - 0
+    - 2097
+  label: 居士傳三十
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0185_X_030-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 宗汝霖張德遠傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0185_X_030-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 宗汝霖
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0185_X_030-mulu-3
+    span:
+    - body
+    - 1282
+    - 1282
+  label: 張德遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-juan-start
+    span:
+    - body
+    - 0
+    - 3501
+  label: 居士傳三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三李馮蔡二吳顏呂葛余張傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 李似之
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-3
+    span:
+    - body
+    - 415
+    - 415
+  label: 李德遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-4
+    span:
+    - body
+    - 675
+    - 675
+  label: 李漢老
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-5
+    span:
+    - body
+    - 1031
+    - 1031
+  label: 馮濟川
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-6
+    span:
+    - body
+    - 1476
+    - 1476
+  label: 蔡子應
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-7
+    span:
+    - body
+    - 1947
+    - 1947
+  label: 吳元昭
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-8
+    span:
+    - body
+    - 2186
+    - 2186
+  label: 吳十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-9
+    span:
+    - body
+    - 2276
+    - 2276
+  label: 如如居士顏丙
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-10
+    span:
+    - body
+    - 2409
+    - 2409
+  label: 呂鐵船
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-11
+    span:
+    - body
+    - 2630
+    - 2630
+  label: 葛謙問
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-12
+    span:
+    - body
+    - 2913
+    - 2913
+  label: 余放牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6r0185_X_031-mulu-13
+    span:
+    - body
+    - 3120
+    - 3120
+  label: 張功甫
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6r0185_X_032-juan-start
+    span:
+    - body
+    - 0
+    - 1672
+  label: 居士傳三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6r0185_X_032-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 張子韶傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6r0185_X_033-juan-start
+    span:
+    - body
+    - 0
+    - 1476
+  label: 居士傳三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6r0185_X_033-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 王虗中傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6r0185_X_034-juan-start
+    span:
+    - body
+    - 0
+    - 2008
+  label: 居士傳三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6r0185_X_034-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 真希元吳毅夫傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6r0185_X_034-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 真希元
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6r0185_X_034-mulu-3
+    span:
+    - body
+    - 1184
+    - 1184
+  label: 吳毅夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-juan-start
+    span:
+    - body
+    - 0
+    - 2413
+  label: 居士傳三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 李王董鄭胡傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 李純甫
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-mulu-3
+    span:
+    - body
+    - 736
+    - 736
+  label: 王子彧
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-mulu-4
+    span:
+    - body
+    - 956
+    - 956
+  label: 董國華
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-mulu-5
+    span:
+    - body
+    - 1102
+    - 1102
+  label: 鄭所南
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6r0185_X_035-mulu-6
+    span:
+    - body
+    - 1796
+    - 1796
+  label: 胡汲仲
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6r0185_X_036-juan-start
+    span:
+    - body
+    - 0
+    - 1269
+  label: 居士傳三十六
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6r0185_X_036-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 耶律晉卿國寶傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6r0185_X_036-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 耶律晉卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6r0185_X_036-mulu-3
+    span:
+    - body
+    - 792
+    - 792
+  label: 國寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6r0185_X_037-juan-start
+    span:
+    - body
+    - 0
+    - 2759
+  label: 居士傳三十七
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6r0185_X_037-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 宋景濂傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-juan-start
+    span:
+    - body
+    - 0
+    - 2206
+  label: 居士傳三十八
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 劉萬李王薛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 劉祖庭
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-mulu-3
+    span:
+    - body
+    - 206
+    - 206
+  label: 萬民望
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-mulu-4
+    span:
+    - body
+    - 642
+    - 642
+  label: 李文進
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-mulu-5
+    span:
+    - body
+    - 1280
+    - 1280
+  label: 王道安
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6r0185_X_038-mulu-6
+    span:
+    - body
+    - 1773
+    - 1773
+  label: 薛元初
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6r0185_X_039-juan-start
+    span:
+    - body
+    - 0
+    - 1949
+  label: 居士傳三十九
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6r0185_X_039-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 趙大洲傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6r0185_X_040-juan-start
+    span:
+    - body
+    - 0
+    - 3514
+  label: 居士傳四十
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6r0185_X_040-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 嚴敏卿陸與繩傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6r0185_X_040-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 嚴敏卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6r0185_X_040-mulu-3
+    span:
+    - body
+    - 1478
+    - 1478
+  label: 陸與繩
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-juan-start
+    span:
+    - body
+    - 0
+    - 1861
+  label: 居士傳四十一
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 楊唐戈孫朱郭郝杜二吳張傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 楊󳬛華
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-3
+    span:
+    - body
+    - 211
+    - 211
+  label: 唐體如
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-4
+    span:
+    - body
+    - 315
+    - 315
+  label: 戈以安
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-5
+    span:
+    - body
+    - 444
+    - 444
+  label: 孫叔子
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-6
+    span:
+    - body
+    - 669
+    - 669
+  label: 朱綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-7
+    span:
+    - body
+    - 720
+    - 720
+  label: 郭大林
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-8
+    span:
+    - body
+    - 753
+    - 753
+  label: 劉通志
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-9
+    span:
+    - body
+    - 821
+    - 821
+  label: 郝熈載
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-10
+    span:
+    - body
+    - 899
+    - 899
+  label: 杜居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-11
+    span:
+    - body
+    - 994
+    - 994
+  label: 吳大恩
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-12
+    span:
+    - body
+    - 1055
+    - 1055
+  label: 吳用卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6r0185_X_041-mulu-13
+    span:
+    - body
+    - 1127
+    - 1127
+  label: 張愛
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-juan-start
+    span:
+    - body
+    - 0
+    - 4081
+  label: 居士傳四十二
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 殷陳顧朱周蔡虞黃莊鮑傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 殷時訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-3
+    span:
+    - body
+    - 468
+    - 468
+  label: 陳廷裸
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-4
+    span:
+    - body
+    - 788
+    - 788
+  label: 顧清甫
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-5
+    span:
+    - body
+    - 1182
+    - 1182
+  label: 朱元正
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-6
+    span:
+    - body
+    - 1454
+    - 1454
+  label: 周楚峰
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-7
+    span:
+    - body
+    - 1633
+    - 1633
+  label: 蔡槐庭
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-8
+    span:
+    - body
+    - 2206
+    - 2206
+  label: 虞長孺
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-9
+    span:
+    - body
+    - 2916
+    - 2916
+  label: 黃平倩
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-10
+    span:
+    - body
+    - 3222
+    - 3222
+  label: 莊復真
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6r0185_X_042-mulu-11
+    span:
+    - body
+    - 3464
+    - 3464
+  label: 鮑性泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6r0185_X_043-juan-start
+    span:
+    - body
+    - 0
+    - 958
+  label: 居士傳四十三
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6r0185_X_043-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 李卓吾傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-juan-start
+    span:
+    - body
+    - 0
+    - 8224
+  label: 居士傳四十四
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 管楊陶焦唐瞿傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 管登之
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-3
+    span:
+    - body
+    - 1228
+    - 1228
+  label: 楊貞復
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-4
+    span:
+    - body
+    - 1897
+    - 1897
+  label: 陶周望
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-5
+    span:
+    - body
+    - 3503
+    - 3503
+  label: 焦弱侯
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-6
+    span:
+    - body
+    - 4225
+    - 4225
+  label: 唐宜之
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6r0185_X_044-mulu-7
+    span:
+    - body
+    - 5247
+    - 5247
+  label: 瞿元立
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6r0185_X_045-juan-start
+    span:
+    - body
+    - 0
+    - 3352
+  label: 居士傳四十五
+  type: juan
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6r0185_X_045-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 袁了凡傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6r0185_X_046-juan-start
+    span:
+    - body
+    - 0
+    - 4782
+  label: 居士傳四十六
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6r0185_X_046-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 袁伯修中郎小修傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6r0185_X_047-juan-start
+    span:
+    - body
+    - 0
+    - 3530
+  label: 居士傳四十七
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6r0185_X_047-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 曾端甫趙凡夫劉玉受傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6r0185_X_047-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 曾端甫
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6r0185_X_047-mulu-3
+    span:
+    - body
+    - 2116
+    - 2116
+  label: 趙凡夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6r0185_X_047-mulu-4
+    span:
+    - body
+    - 2477
+    - 2477
+  label: 劉玉受
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-juan-start
+    span:
+    - body
+    - 0
+    - 3309
+  label: 居士傳四十八
+  type: juan
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 王丁朱莊黃聞黃錢吳王陳駱程傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 王孟夙
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-3
+    span:
+    - body
+    - 280
+    - 280
+  label: 丁劒虹
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-4
+    span:
+    - body
+    - 474
+    - 474
+  label: 朱白民
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-5
+    span:
+    - body
+    - 922
+    - 922
+  label: 莊平叔
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-6
+    span:
+    - body
+    - 1165
+    - 1165
+  label: 黃元孚
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-7
+    span:
+    - body
+    - 1466
+    - 1466
+  label: 聞子與
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-8
+    span:
+    - body
+    - 1676
+    - 1676
+  label: 黃子羽
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-9
+    span:
+    - body
+    - 1882
+    - 1882
+  label: 錢伯韞
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-10
+    span:
+    - body
+    - 2054
+    - 2054
+  label: 吳瞻樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-11
+    span:
+    - body
+    - 2143
+    - 2143
+  label: 王先民
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-12
+    span:
+    - body
+    - 2304
+    - 2304
+  label: 陳用拙
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-13
+    span:
+    - body
+    - 2479
+    - 2479
+  label: 駱見於
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6r0185_X_048-mulu-14
+    span:
+    - body
+    - 2685
+    - 2685
+  label: 程季清
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6r0185_X_049-juan-start
+    span:
+    - body
+    - 0
+    - 2781
+  label: 居士傳四十九
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6r0185_X_049-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 周景文姚孟長傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6r0185_X_049-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 周景文
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6r0185_X_049-mulu-3
+    span:
+    - body
+    - 892
+    - 892
+  label: 姚孟長
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6r0185_X_050-juan-start
+    span:
+    - body
+    - 0
+    - 1119
+  label: 居士傳五十
+  type: juan
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6r0185_X_050-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 馬󳬛良徐成民傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6r0185_X_050-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 馬󳬛良
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6r0185_X_050-mulu-3
+    span:
+    - body
+    - 396
+    - 396
+  label: 徐成民
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-juan-start
+    span:
+    - body
+    - 0
+    - 3758
+  label: 居士傳五十一
+  type: juan
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 蔡劉三黃傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 蔡維立
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-mulu-3
+    span:
+    - body
+    - 831
+    - 831
+  label: 劉長倩
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-mulu-4
+    span:
+    - body
+    - 1470
+    - 1470
+  label: 黃元公
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-mulu-5
+    span:
+    - body
+    - 2009
+    - 2009
+  label: 黃介子
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6r0185_X_051-mulu-6
+    span:
+    - body
+    - 2322
+    - 2322
+  label: 黃蘊生
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6r0185_X_052-juan-start
+    span:
+    - body
+    - 0
+    - 4580
+  label: 居士傳五十二
+  type: juan
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6r0185_X_052-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 金正希熊魚山傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6r0185_X_052-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 金正希
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6r0185_X_052-mulu-3
+    span:
+    - body
+    - 2404
+    - 2404
+  label: 熊魚山
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6r0185_X_053-juan-start
+    span:
+    - body
+    - 0
+    - 1282
+  label: 居士傳五十三
+  type: juan
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6r0185_X_053-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 溫月峰崔應魁蔣虎臣李生傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6r0185_X_053-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 溫月峰
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6r0185_X_053-mulu-3
+    span:
+    - body
+    - 315
+    - 315
+  label: 崔應魁
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6r0185_X_053-mulu-4
+    span:
+    - body
+    - 440
+    - 440
+  label: 蔣虎臣
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6r0185_X_053-mulu-5
+    span:
+    - body
+    - 692
+    - 692
+  label: 李生
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6r0185_X_054-juan-start
+    span:
+    - body
+    - 0
+    - 2364
+  label: 居士傳五十四
+  type: juan
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6r0185_X_054-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 嚴仲慤宋文森畢紫嵐傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6r0185_X_054-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 嚴仲慤
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6r0185_X_054-mulu-3
+    span:
+    - body
+    - 621
+    - 621
+  label: 宋文森
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6r0185_X_054-mulu-4
+    span:
+    - body
+    - 1337
+    - 1337
+  label: 畢紫嵐
+  type: mulu
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6r0185_X_055-juan-start
+    span:
+    - body
+    - 0
+    - 2018
+  label: 居士傳五十五
+  type: juan
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6r0185_X_055-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 周安士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6r0185_X_056-juan-start
+    span:
+    - body
+    - 0
+    - 1203
+  label: 居士傳五十六
+  type: juan
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6r0185_X_056-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 知歸子傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6r0185_X_056-mulu-2
+    span:
+    - body
+    - 856
+    - 856
+  label: No. 1646-B 居士傳䟦
+  type: mulu
+  level: 1
+hash: sha256:c1bf065ff3b06433f15f393de74be299fd0839785b68d813b672e9e4104e91d5
