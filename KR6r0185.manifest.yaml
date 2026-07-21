@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0185_000.yaml, hash: 'sha256:1d77e01781732cead34b8f0a7c0f24abaca0d286af37bf5c41341c3569e48fed'}
+  - {seq: 0, filename: KR6r0185_000.yaml, hash: 'sha256:ee6f6018b6a8faa4991fc120afb25cf886cffb2c3b72a5900f971a55b55f429b'}
   - {seq: 1, filename: KR6r0185_001.yaml, hash: 'sha256:de0684fb4c1f85cea04be8a4445849f79c569e46d12dd6b5b517054a69d3c44a'}
   - {seq: 2, filename: KR6r0185_002.yaml, hash: 'sha256:eeeb140feafb767760b16227df5885506a0e07063a86e3cd14d8b9a3e053ad48'}
   - {seq: 3, filename: KR6r0185_003.yaml, hash: 'sha256:1e192fe4fd7f71a1de4a0e3dba823853a2ffd3d7dead158cdf7b1fee635bc3cc'}
@@ -79,7 +79,7 @@ assets:
   - {seq: 55, filename: KR6r0185_055.yaml, hash: 'sha256:243cae1255b47dfdc01e45564db7b6047d7d9615a6c57d8d87c1290b74b1ec62'}
   - {seq: 56, filename: KR6r0185_056.yaml, hash: 'sha256:2c3de342748494cec86fb9d7f58db21c82edb2f6f6fb3373d23b8b5d44520e74'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0185_000.markers.yaml, hash: 'sha256:95fc1a2b67d7cfbc28adc3316ce8f5b8c1bd950768c982905aa40f100fc4691e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0185_000.markers.yaml, hash: 'sha256:5a587b36ef1f373810e4886efe72f583a65e2a0c6f9d483e0115ecce62b4d8a5'}
   - {seq: 1, role: markers, filename: assets/KR6r0185_001.markers.yaml, hash: 'sha256:83d7ae1ccbfa19d2540d571d4704e30eb43b0864e8e1ef97d2b3465ff227db9b'}
   - {seq: 2, role: markers, filename: assets/KR6r0185_002.markers.yaml, hash: 'sha256:229bd86fb03ee4ca9b08319da61242974affcfbad6427383218537dfec6cbd61'}
   - {seq: 3, role: markers, filename: assets/KR6r0185_003.markers.yaml, hash: 'sha256:d7b2438e06bd89aa11da2c6b2facd4b5d600aa1bb5dd298e7c88051ddb54ca76'}
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0185_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1646-A 居士傳序
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0185_X_000-mulu-2
     span:
-    - front
+    - body
     - 161
     - 161
   label: 居士傳發凡
@@ -161,7 +161,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0185_X_000-mulu-3
     span:
-    - front
+    - body
     - 1310
     - 1310
   label: 題居士傳偈
@@ -171,7 +171,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0185_X_000-mulu-4
     span:
-    - front
+    - body
     - 1624
     - 1624
   label: 居士傳目錄
@@ -3387,7 +3387,7 @@ table_of_contents:
   label: No. 1646-B 居士傳䟦
   type: mulu
   level: 1
-hash: sha256:5604573828d2602102f1186a84839319ad5098e13ce35aa2cc476a72f97f3cff
+hash: sha256:b4801c3ce8b9f0f077226d10c750b7c1a9b4d303b63e0f65bed2766c79d0dae2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
